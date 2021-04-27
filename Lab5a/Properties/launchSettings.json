@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab5a": {
+      "commandName": "Project",
+      "commandLineArgs": "example.xml"
+    }
+  }
+}
