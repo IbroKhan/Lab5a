@@ -62,6 +62,7 @@ namespace Lab5a
         {
             double result = 0;
             XmlNodeList childNodes = pOperatorNode.ChildNodes;
+            Console.Write("(");
             for(int i = 0; i < childNodes.Count; i++)
             {
                 XmlNode childNode = childNodes[i];
@@ -82,6 +83,7 @@ namespace Lab5a
                 }
                 
             }
+            Console.Write(")");
             return result;
         }
         static double PerformOperator(string pNodeType, double pResult, double pChildResult)

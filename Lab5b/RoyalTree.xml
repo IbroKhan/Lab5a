@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<royaltree>
+  <family>
+    <name>Wessex</name>
+    <person>
+      <name>Alfred the Great</name>
+      <born>849</born>
+      <died>899</died>
+      <coronation>871</coronation>
+      <children>
+        <person>
+          <name>Edward the Elder</name>
+          <born>879</born>
+          <died>924</died>
+          <coronation>899</coronation>
+          <children>
+            <person>
+              <name>Edmund I the Elder</name>
+              <born>921</born>
+              <died>946</died>
+              <coronation>940</coronation>
+              <children>
+                <person>
+                  <name>Edger the Peaceful</name>
+                  <born>944</born>
+                  <died>975</died>
+                  <coronation>959</coronation>
+                  <children>
+                    <person>
+                      <name>Ethelred II</name>
+                      <born>962</born>
+                      <died>1016</died>
+                      <coronation>978</coronation>
+                      <children>
+                        <person>
+                          <name>Edward Confessor</name>
+                          <born>1002</born>
+                          <died>1066</died>
+                          <coronation>1042</coronation>
+                        </person>
+                        <person>
+                          <name>Edward II Ironside</name>
+                          <born>1002</born>
+                          <died>1016</died>
+                          <coronation>1016</coronation>
+                        </person>
+                      </children>
+                    </person>
+                  </children>
+                </person>
+              </children>
+            </person>
+          </children>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Norman</name>
+    <person>
+      <name>William I</name>
+      <born>1028</born>
+      <died>1087</died>
+      <coronation>1066</coronation>
+      <children>
+        <person>
+          <name>Adela</name>
+          <born>1050</born>
+          <died>1080</died>
+        </person>
+        <person>
+          <name>William II</name>
+          <born>1056</born>
+          <died>1100</died>
+          <coronation>1087</coronation>
+        </person>
+        <person>
+          <name>Henry I Beauclerc</name>
+          <born>1068</born>
+          <died>1135</died>
+          <coronation>1100</coronation>
+          <children>
+            <person>
+              <name>Matilda</name>
+              <born>1130</born>
+              <died>1167</died>
+
+            </person>
+          </children>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Angevin</name>
+    <person>
+      <name>Stephen</name>
+      <born>1097</born>
+      <died>1154</died>
+      <coronation>1135</coronation>
+    </person>
+  </family>
+  <family>
+    <name>Plantagenet</name>
+    <person>
+      <name>Henry II Curtmantle</name>
+      <born>1133</born>
+      <died>1189</died>
+      <coronation>1154</coronation>
+      <children>
+        <person>
+          <name>Eleanor</name>
+          <born>1162</born>
+          <died>1214</died>
+          <children>
+            <person>
+              <name>Berengerie</name>
+              <born>1171</born>
+              <died>1246</died>
+              <children>
+                <person>
+                  <name>Ferdinand III</name>
+                  <born>1199</born>
+                  <died>1252</died>
+                  <children>
+                    <person>
+                      <name>Eleanor of Cestile</name>
+                      <born>1244</born>
+                      <died>1290</died>
+                    </person>
+                  </children>
+                </person>
+              </children>
+            </person>
+          </children>
+        </person>
+        <person>
+          <name>Richard I</name>
+          <born>1157</born>
+          <died>1199</died>
+          <coronation>1189</coronation>
+        </person>
+        <person>
+          <name>John Leckland</name>
+          <born>1167</born>
+          <died>1216</died>
+          <coronation>1199</coronation>
+          <children>
+            <person>
+              <name>Henry III</name>
+              <born>1207</born>
+              <died>1272</died>
+              <coronation>1216</coronation>
+              <children>
+                <person>
+                  <name>Edward I</name>
+                  <born>1239</born>
+                  <died>1307</died>
+                  <coronation>1272</coronation>
+                  <children>
+                    <person>
+                      <name>Edward II</name>
+                      <born>1284</born>
+                      <died>1327</died>
+                      <coronation>1307</coronation>
+                      <children>
+                        <person>
+                          <name>Edward III</name>
+                          <born>1312</born>
+                          <died>1377</died>
+                          <coronation>1327</coronation>
+                          <children>
+                            <person>
+                              <name>Edward the Black Prince</name>
+                              <born>1330</born>
+                              <died>1376</died>
+                              <children>
+                                <person>
+                                  <name>Richard II</name>
+                                  <born>1367</born>
+                                  <died>1400</died>
+                                  <coronation>1377</coronation>
+                                  <deposed>1399</deposed>
+                                </person>
+                              </children>
+                            </person>
+                            <person>
+                              <name>John of Gaunt</name>
+                              <born>1157</born>
+                              <died>1199</died>
+                              <coronation>1189</coronation>
+                            </person>
+                          </children>
+                        </person>
+                      </children>
+                    </person>
+                  </children>
+                </person>
+              </children>
+            </person>
+          </children>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Lancaster</name>
+    <person>
+      <name>Henry IV</name>
+      <born>1366</born>
+      <died>1413</died>
+      <coronation>1399</coronation>
+      <children>
+        <person>
+          <name>Henry V</name>
+          <born>1387</born>
+          <died>1422</died>
+          <coronation>1412</coronation>
+          <children>
+            <person>
+              <name>Henry VI</name>
+              <born>1421</born>
+              <died>1471</died>
+              <coronation>1422</coronation>
+            </person>
+          </children>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>York</name>
+    <person>
+      <name>Richard III</name>
+      <born>1452</born>
+      <died>1485</died>
+      <coronation>1483</coronation>
+    </person>
+    <person>
+      <name>Edward IV</name>
+      <born>1442</born>
+      <died>1483</died>
+      <coronation>1461</coronation>
+      <children>
+        <person>
+          <name>Edward V</name>
+          <born>1470</born>
+          <died>1483</died>
+          <coronation>1483</coronation>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Tudor</name>
+    <person>
+      <name>Henry VII</name>
+      <born>1457</born>
+      <died>1509</died>
+      <coronation>1485</coronation>
+      <children>
+        <person>
+          <name>Henry VIII</name>
+          <born>1491</born>
+          <died>1547</died>
+          <coronation>1509</coronation>
+          <children>
+            <person>
+              <name>Mary I</name>
+              <born>1516</born>
+              <died>1558</died>
+              <coronation>1553</coronation>
+            </person>
+            <person>
+              <name>Elisabeth I</name>
+              <born>1533</born>
+              <died>1603</died>
+              <coronation>1558</coronation>
+            </person>
+            <person>
+              <name>Edward VI</name>
+              <born>1537</born>
+              <died>1553</died>
+              <coronation>1547</coronation>
+            </person>
+          </children>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Stuart</name>
+    <person>
+      <name>James I</name>
+      <born>1566</born>
+      <died>1625</died>
+      <coronation>1603</coronation>
+      <children>
+        <person>
+          <name>Charles I</name>
+          <born>1600</born>
+          <died>1649</died>
+          <coronation>1625</coronation>
+          <children>
+            <person>
+              <name>James II</name>
+              <born>1633</born>
+              <died>1701</died>
+              <coronation>1685</coronation>
+              <children>
+                <person>
+                  <name>Anne</name>
+                  <born>1665</born>
+                  <died>1714</died>
+                  <coronation>1702</coronation>
+                </person>
+                <person>
+                  <name>Mary II</name>
+                  <born>1662</born>
+                  <died>1694</died>
+                  <coronation>1689</coronation>
+                </person>
+              </children>
+            </person>
+            <person>
+              <name>Mary</name>
+              <born>1634</born>
+              <died>1701</died>
+              <children>
+                <person>
+                  <name>William III</name>
+                  <born>1650</born>
+                  <died>1702</died>
+                  <coronation>1689</coronation>
+                </person>
+              </children>
+            </person>
+            <person>
+              <name>Charles II</name>
+              <born>1630</born>
+              <died>1685</died>
+              <coronation>1660</coronation>
+            </person>
+          </children>
+        </person>
+        <person>
+          <name>Elizabeth</name>
+          <born>1596</born>
+          <died>1662</died>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Hanover</name>
+    <person>
+      <name>George I</name>
+      <born>1660</born>
+      <died>1727</died>
+      <coronation>1714</coronation>
+      <children>
+        <person>
+          <name>George II</name>
+          <born>1683</born>
+          <died>1760</died>
+          <coronation>1727</coronation>
+          <children>
+            <person>
+              <name>Frederick Louis</name>
+              <born>1700</born>
+              <died>1751</died>
+              <children>
+                <person>
+                  <name>George III</name>
+                  <born>1738</born>
+                  <died>1820</died>
+                  <coronation>1760</coronation>
+                  <children>
+                    <person>
+                      <name>Edward</name>
+                      <born>1767</born>
+                      <died>1820</died>
+                      <children>
+                        <person>
+                          <name>Victoria I</name>
+                          <born>1819</born>
+                          <died>1901</died>
+                          <coronation>1837</coronation>
+                          <children>
+                            <person>
+                              <name>Edward VII</name>
+                              <born>1841</born>
+                              <died>1910</died>
+                              <coronation>1901</coronation>
+                            </person>
+                            <person>
+                              <name>Alice Maud Mary</name>
+                              <born>1843</born>
+                              <died>1878</died>
+                            </person>
+                          </children>
+                        </person>
+                      </children>
+                    </person>
+                    <person>
+                      <name>George IV</name>
+                      <born>1782</born>
+                      <died>1830</died>
+                      <coronation>1820</coronation>
+                    </person>
+                    <person>
+                      <name>William IV</name>
+                      <born>1765</born>
+                      <died>1837</died>
+                      <coronation>1830</coronation>
+                    </person>
+                    <person>
+                      <name>Adolphus</name>
+                      <born>1774</born>
+                      <died>1850</died>
+                    </person>
+                  </children>
+                </person>
+              </children>
+            </person>
+          </children>
+        </person>
+        <person>
+          <name>Sophie Dorothee</name>
+          <born>1687</born>
+          <died>1757</died>
+        </person>
+      </children>
+    </person>
+  </family>
+  <family>
+    <name>Windsor</name>
+    <person>
+      <name>George V</name>
+      <born>1865</born>
+      <died>1936</died>
+      <coronation>1910</coronation>
+      <children>
+        <person>
+          <name>Edward VIII</name>
+          <born>1894</born>
+          <died>1972</died>
+          <coronation>1936</coronation>
+          <abdication>1936</abdication>
+        </person>
+        <person>
+          <name>George VI</name>
+          <born>1895</born>
+          <died>1952</died>
+          <coronation>1936</coronation>
+          <children>
+            <person>
+              <name>Elizabeth II</name>
+              <born>1926</born>
+              <coronation>1952</coronation>
+            </person>
+            <person>
+              <name>Margaret</name>
+              <born>1930</born>
+              <died>2002</died>
+            </person>
+          </children>
+        </person>
+      </children>
+    </person>
+  </family>
+</royaltree>
